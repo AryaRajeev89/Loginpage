@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myChatApp</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Name">Name</string>
+    <string name="Username">Username</string>
+    <string name="Conform_Password">Conform Password</string>
+    <string name="invalid_email">your Email is invalid</string>
+    <string name="signup">signUp</string>
+    <string name="signin">signIn</string>
+    <string name="invalid_password">Your Password is invalid</string>
+    <string name="incorrect_password">Your Password is incurrect</string>
+    <string name="field_request">Please fill the fields</string>
+
+</resources>
